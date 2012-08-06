@@ -1,0 +1,31 @@
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, 
+dl, lh, dt, dd, pre, code, address, variable, form, 
+fieldset, blockquote, cite {
+
+padding: 0;
+
+margin: 0;
+
+font-size: 100%;
+
+font-weight: normal;
+
+font-style:normal;
+
+}
+
+img {
+
+border: 0;
+
+}
+
+ul {
+
+list-style: none;
+
+}
+
+a {
+	text-decoration:none;
+}
